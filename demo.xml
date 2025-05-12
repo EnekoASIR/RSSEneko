@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<data>
+  <row _id="1">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Carretera cerrada</Titulo>
+    <Ubicacion>NA-2011 SALAZAR - FRANCIA PK 7</Ubicacion>
+    <Fecha_incidencia>18 Apr 2024</Fecha_incidencia>
+    <Gravedad>Medio</Gravedad>
+    <Afeccion>Carretera cortada</Afeccion>
+    <Categoria>Meteorológicas</Categoria>
+    <Tipo>Hielo en la calzada</Tipo>
+    <Otros_datos>
+    Carretera cerrrada a partir del PK 7, por hielo en calzada.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>662189</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4758081</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-2011</Carretera>
+    <PK>7</PK>
+  </row>
+  <row _id="2">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Corte de carril móvil</Titulo>
+    <Ubicacion>AP-15 AUTOPISTA DE NAVARRA PK 1</Ubicacion>
+    <Fecha_incidencia>19 Apr 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Corte carril móvil</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>Trabajos de jardinería</Tipo>
+    <Otros_datos>
+    Corte móvil de carril derecho entre los PK 1 y 50, sentido sur, por tratamiento con herbicida.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>605771</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4661510</Coord_Y_en_EPSG_25830>
+    <Carretera>AP-15</Carretera>
+    <PK>1</PK>
+  </row>
+  <row _id="3">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Carril derecho cortado.</Titulo>
+    <Ubicacion>AP-15 AUTOPISTA DE NAVARRA PK 71</Ubicacion>
+    <Fecha_incidencia>19 Apr 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Carril derecho cerrado</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>Trabajos de mantenimiento</Tipo>
+    <Otros_datos>
+    Corte de carril derecho entre los PK 71+700 y 72+800, sentido norte, por trabajos en estructura.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>610401</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4726568</Coord_Y_en_EPSG_25830>
+    <Carretera>AP-15</Carretera>
+    <PK>71</PK>
+  </row>
+  <row _id="4">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Afección en calzada</Titulo>
+    <Ubicacion>
+    NA-132 'ESTELLA-LIZARRA' - TAFALLA - SANGÜESA / ZANGOZA PK 31
+    </Ubicacion>
+    <Fecha_incidencia>24 Jan 2022</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Afección en la calzada</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Afección en calzada en el PK 31+760 por obras del TAV
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>606882</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4709058</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-132</Carretera>
+    <PK>31</PK>
+  </row>
+  <row _id="5">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Afeccción en la calzada</Titulo>
+    <Ubicacion>NA-6140 TAFALLA - MIRANDA DE ARGA PK 2</Ubicacion>
+    <Fecha_incidencia>24 Jan 2022</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Afección en la calzada</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Trazado modificado por desvío provisional, en el PK 2+230 por obras del TAV.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>606080</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4707297</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-6140</Carretera>
+    <PK>2</PK>
+  </row>
+  <row _id="6">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Carretera cortada</Titulo>
+    <Ubicacion>NA-6000 ECHAVACOIZ - CAMPANAS PK 6</Ubicacion>
+    <Fecha_incidencia>22 Jan 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Carretera cortada</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>Trabajos de asfaltado</Tipo>
+    <Otros_datos>
+    Carretera cortada entre los PK 6+600 (cruce de Arlegui) y 9+750 (cruce de Subiza), por reparación de la calzada a partir del jueves 25 de enero. Los desvíos se realizarán por la NA-6007, Arlegui-Beriain y por la NA-6009, Beriain-Subiza. Los trabajos tienen una duración aproximada de tres meses.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>608501</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4733295</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-6000</Carretera>
+    <PK>6</PK>
+  </row>
+  <row _id="7">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Afecciones por obras</Titulo>
+    <Ubicacion>PA-30 RONDA DE PAMPLONA / IRUÑA PK 11</Ubicacion>
+    <Fecha_incidencia>29 Jan 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Afección en la calzada</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Afecciones entre los PK 11+200 y 11+350 y en la NA-2517 (entre los PK 0+830, y 1), por colocación de pasarela peatonal.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>613863</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4743840</Coord_Y_en_EPSG_25830>
+    <Carretera>PA-30</Carretera>
+    <PK>11</PK>
+  </row>
+  <row _id="8">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Afección en calzada</Titulo>
+    <Ubicacion>NA-6030 MENDIGORRÍA - TAFALLA PK 17</Ubicacion>
+    <Fecha_incidencia>29 Jan 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Afección en la calzada</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>Afecciones en el PK 17, por obras del TAV.</Otros_datos>
+    <Coord_X_en_EPSG_25830>607588</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4710572</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-6030</Carretera>
+    <PK>17</PK>
+  </row>
+  <row _id="9">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Afecciones por obras</Titulo>
+    <Ubicacion>NA-6140 TAFALLA - MIRANDA DE ARGA PK 14</Ubicacion>
+    <Fecha_incidencia>11 Mar 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Afección en la calzada</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Afecciones por obras entre los PK 14 y 17+500, debido a la entrada y salida de camiones.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>595630</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4704565</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-6140</Carretera>
+    <PK>14</PK>
+  </row>
+  <row _id="10">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Afecciones por obras</Titulo>
+    <Ubicacion>NA-6120 LERÍN - BERBINZANA PK 4</Ubicacion>
+    <Fecha_incidencia>11 Mar 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Afección en la calzada</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Afecciones por obras entre los PK 4 y 6+500, por entrada y salida de camiones.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>593616</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4707675</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-6120</Carretera>
+    <PK>4</PK>
+  </row>
+  <row _id="11">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Tramo de en obras cortado sentido Venta de Arlas</Titulo>
+    <Ubicacion>NA-660 VENTA DE ARLAS - CADREITA PK 5</Ubicacion>
+    <Fecha_incidencia>25 Mar 2024</Fecha_incidencia>
+    <Gravedad>Medio</Gravedad>
+    <Afeccion>Carril cortado</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Tramo afectado por obras entre el PK 5+700 al 5+900, por refuerzo de asfalto. el sentido Venta de Arlás permanecerá cortado, desvío recomendado por la NA-128
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>605217</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4686885</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-660</Carretera>
+    <PK>5</PK>
+  </row>
+  <row _id="12">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Obras en calzada</Titulo>
+    <Ubicacion>NA-5200 RIBAFORADA - CORTES PK 4</Ubicacion>
+    <Fecha_incidencia>25 Mar 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Afección en la calzada</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Tramo afectado por obras entre los PK 4+500 al 5+100
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>625293</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4648789</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-5200</Carretera>
+    <PK>4</PK>
+  </row>
+  <row _id="13">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Paso alternativo</Titulo>
+    <Ubicacion>NA-1240 TRAIBUENAS - SANTACARA - CARCASTILLO PK 0</Ubicacion>
+    <Fecha_incidencia>03 Apr 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Paso alternativo</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>Trabajos de pintura</Tipo>
+    <Otros_datos>
+    Paso alternativo entre los PK 0 al 2+500 para realizar trabajos de pintura.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>611103</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4691764</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-1240</Carretera>
+    <PK>0</PK>
+  </row>
+  <row _id="14">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Paso alternativo</Titulo>
+    <Ubicacion>NA-1720 AOIZ / AGOITZ - AURITZ / BURGUETE PK 22</Ubicacion>
+    <Fecha_incidencia>08 Apr 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Paso alternativo</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Paso alternativo regulado por semáforos en el PK 22+300, por trabajos en calzada.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>632388</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4753555</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-1720</Carretera>
+    <PK>22</PK>
+  </row>
+  <row _id="15">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Paso alternativo</Titulo>
+    <Ubicacion>N-121 PAMPLONA / IRUÑA - TUDELA PK 21</Ubicacion>
+    <Fecha_incidencia>09 Apr 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Paso alternativo</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Paso alternativo en el PK 22+600, por trabajos en cuneta.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>611590</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4721062</Coord_Y_en_EPSG_25830>
+    <Carretera>N-121</Carretera>
+    <PK>21</PK>
+  </row>
+  <row _id="16">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Cortes puntuales</Titulo>
+    <Ubicacion>NA-6009 BERIÁIN - SUBIZA PK 0</Ubicacion>
+    <Fecha_incidencia>09 Apr 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Afección en la calzada</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>OBRAS</Tipo>
+    <Otros_datos>
+    Se producirán cortes puntuales, hasta el 31 de mayo, entre los PK 0 y 0+175, por obras en calzada.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>611820</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4732965</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-6009</Carretera>
+    <PK>0</PK>
+  </row>
+  <row _id="17">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Paso alternativo</Titulo>
+    <Ubicacion>NA-411 'A-15' - OSTIZ / OSTITZ PK 10</Ubicacion>
+    <Fecha_incidencia>15 Apr 2024</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Paso alternativo</Afeccion>
+    <Categoria>Obras</Categoria>
+    <Tipo>Trabajos en el firme</Tipo>
+    <Otros_datos>
+    Paso alternativo regulado por semáforos en el PK 11+785, por trabajos en calzada.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>600933</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4762056</Coord_Y_en_EPSG_25830>
+    <Carretera>NA-411</Carretera>
+    <PK>10</PK>
+  </row>
+  <row _id="18">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Baipás</Titulo>
+    <Ubicacion>A-1 AUTOVÍA DEL NORTE PK 395</Ubicacion>
+    <Fecha_incidencia>29 Feb 2024</Fecha_incidencia>
+    <Gravedad>Grave</Gravedad>
+    <Afeccion>Baipás</Afeccion>
+    <Categoria>Red Viaria</Categoria>
+    <Tipo>Desprendimientos</Tipo>
+    <Otros_datos>
+    Baipás entre los PK 395 y 396+500 por desprendimiento. El tráfico sentido Irún/Pamplona, circulará por el carril izquierdo del sentido Vitoria.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>565093</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4747284</Coord_Y_en_EPSG_25830>
+    <Carretera>A-1</Carretera>
+    <PK>395</PK>
+  </row>
+  <row _id="19">
+    <Ultima_actualizacion>19 Apr 2024 19:36</Ultima_actualizacion>
+    <Titulo>Afección en calzada</Titulo>
+    <Ubicacion>N-121 PAMPLONA / IRUÑA - TUDELA PK 53</Ubicacion>
+    <Fecha_incidencia>30 Oct 2023</Fecha_incidencia>
+    <Gravedad>Leve</Gravedad>
+    <Afeccion>Afección en la calzada</Afeccion>
+    <Categoria>Red Viaria</Categoria>
+    <Tipo>Varios</Tipo>
+    <Otros_datos>
+    Afección por intersección modificada entre los PK 53+220 y 53+830.
+    </Otros_datos>
+    <Coord_X_en_EPSG_25830>611173</Coord_X_en_EPSG_25830>
+    <Coord_Y_en_EPSG_25830>4692067</Coord_Y_en_EPSG_25830>
+    <Carretera>N-121</Carretera>
+    <PK>53</PK>
+  </row>
+</data>

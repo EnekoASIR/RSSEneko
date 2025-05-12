@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+}
+table {
+  border-collapse: collapse;
+  margin-right: 20px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table tr { line-height: 23.5px; }
+
+th, td {
+  padding: 0 10px;
+  text-align: right;
+}
+.Leve{background-color: rgb(127, 219, 255);}
+.Medio{background-color: rgb(255, 217, 127);}
+.Grave{background-color: rgb(241, 12, 12);}
