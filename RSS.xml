@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilosRSS.xsl"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias de ENEKO AYESTARAN</title>
+    <link>https://github.com/EnekoASIR/RSSEneko.com</link>
+    <description>Últimas noticias y actualizaciones segun Eneko Ayestaran</description>
+    
+    
+    <item>
+      <title>Nuevo Trailer de GTA 6 lanzado</title>
+      <link>https://www.lavanguardia.com/vida/20250506/10652328/segundo-trailer-grand-theft-auto-6-gta-rockstar-games-ps5-xbox.html</link>
+      <description>Un nuevo trailer del esperado juego ha sido lanzado de forma espontanea.</description>
+      <author>eayestaurr@educacion.navarra.es</author>
+      <category>Videojuegos</category>
+      <guid>https://www.lavanguardia.com/vida/20250506/10652328/segundo-trailer-grand-theft-auto-6-gta-rockstar-games-ps5-xbox.html</guid>
+    </item>
+
+ 
+    <item>
+      <title>JDM vence a Belal Muhammad en UFC 315</title>
+      <link>https://www.marca.com/combates-ufc/2025/05/11/jack-della-maddalena-destrona-muhammad-evita-topuria-vs-makhachev.html</link>
+      <description>Jack Della Madalena se hace con el cinturon mediante decision unanime.</description>
+      <author>eayestaurr@educacion.navarra.es</author>
+      <category>Deporte</category>
+      <guid>https://www.marca.com/combates-ufc/2025/05/11/jack-della-maddalena-destrona-muhammad-evita-topuria-vs-makhachev.html</guid>
+    </item>
+
+  
+    <item>
+      <title>Se elige nuevo Papa</title>
+      <link>https://www.20minutos.es/internacional/directo-robert-prevost-nuevo-papa-leon-xiv-ultima-hora-vaticano-5708614/</link>
+      <description>Leon XIV elegido como nuevo papa.</description>
+      <author>eayestaurr@educacion.navarra.es</author>
+      <category>Actualidad</category>
+      <guid>https://www.20minutos.es/internacional/directo-robert-prevost-nuevo-papa-leon-xiv-ultima-hora-vaticano-5708614/</guid>
+    </item>
+
+  </channel>
+</rss>
